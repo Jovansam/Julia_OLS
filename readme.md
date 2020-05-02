@@ -1,4 +1,4 @@
 
-# This is my first test of pushing to Github
+# Testing OLS within julia
 
 The following program is based off Bradley Setzler
